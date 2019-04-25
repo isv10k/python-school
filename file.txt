@@ -1,2 +1,4 @@
 Hello
 one more line
+feature-a
+feature-b

@@ -1,2 +1,6 @@
 Hello
 one more line
+HEAD
+feature-a
+feature-b
+feature-a
